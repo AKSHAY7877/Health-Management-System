@@ -1,6 +1,6 @@
 #Health Management System By Akshay Sharma
 print("\t\t\tHealth Management System\n")
-print("Press 1 for retrive(get details) and 2 for write")
+print("Press 1 for retrieve(get details) and 2 for write")
 inp = int(input())
 
 print("Choose the person")
@@ -135,9 +135,3 @@ elif inp == 2:
     write(name, val)
 else:
     print("Invalid Input")
-
-
-
-
-
-
